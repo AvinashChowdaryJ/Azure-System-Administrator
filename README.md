@@ -1,5 +1,5 @@
 Azure Diagnostic Settings Standardization
-Abstract
+
 This project aims to standardize Azure Diagnostic Settings across Azure resources and subscriptions. Azure resources such as databases, storage accounts, virtual machines, and other services generate logs and metrics that are essential for monitoring, troubleshooting, security, and compliance.
 When diagnostic settings are configured independently by different teams, resources may have inconsistent log categories, retention periods, naming conventions, or may have no diagnostic configuration at all. These inconsistencies can increase operational complexity and create monitoring, security, and compliance gaps.
 The goal of this project is to establish a unified, automated, and verifiable standard for managing diagnostic settings across Azure environments.
